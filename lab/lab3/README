@@ -1,0 +1,6 @@
+Andrew Samuels
+CPSC 212
+9/12/15
+
+The program can be run by running g++ -o main main.cpp mapset.cpp
+and then executing ./main

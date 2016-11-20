@@ -1,0 +1,4 @@
+"Andrew Samuels" likes "Moe's"
+"Andrew Samuels" likes "Chipotle"
+"Andrew Samuels" likes "Todaro Pizza"
+"Andrew Samuels" likes "Taco Bell"
