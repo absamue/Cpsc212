@@ -3,6 +3,10 @@ Comp Sci 212: Algorigthms and data structures
 September 21st, 2015
 Assignment 1: 
 
+NOTE: The file webpapges.txt is required to run this program. It can be
+found at
+https://drive.google.com/file/d/0B3W3_V5JBXjpbXFvWEdNRm51b3c/view?usp=sharing
+
 Compiling and execution:
 	The program can be run by running:
 	g++ -o main main.cpp search.cpp
